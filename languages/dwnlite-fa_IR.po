@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Dornaweb Newsletter lite\n"
+"POT-Creation-Date: 2020-07-09 22:30+0430\n"
+"PO-Revision-Date: 2020-07-09 22:31+0430\n"
+"Last-Translator: \n"
+"Language-Team: Dornaweb\n"
+"Language: fa\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n==0 || n==1);\n"
+"X-Poedit-KeywordsList: __;_e;_n\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: assets\n"
+"X-Poedit-SearchPathExcluded-1: includes/vendor\n"
+
+#: includes/admin/class-admin.php:21
+msgid "Newsletter list"
+msgstr "لیست خبرنامه"
+
+#: includes/admin/class-admin.php:21 includes/class-news-letter-list.php:17
+#: includes/class-news-letter-list.php:18
+msgid "Newsletter"
+msgstr "خبرنامه"
+
+#: includes/class-app.php:156
+msgid "Invalid request"
+msgstr "درخواست نا معتبر است"
+
+#: includes/class-app.php:162
+msgid "Please Fill in newsletter form"
+msgstr "لطفا فرم خبرنامه را پر کنید"
+
+#: includes/class-app.php:170
+msgid "Your email address is invalid"
+msgstr "آدرس ایمیل نامعتبر است"
+
+#: includes/class-app.php:176 includes/class-app.php:184
+msgid "You have already subscribed to our newsletter"
+msgstr "شما قبلا در خبرنامه ما عضو شده اید"
+
+#: includes/class-app.php:191
+msgid "You have successfully registered to our newsletter"
+msgstr "شما با موفقیت عضو خبرنامه شدید"
+
+#: includes/class-news-letter-list.php:87
+msgid "No info avaliable."
+msgstr "اطلاعاتی یافت نشد."
+
+#: includes/class-news-letter-list.php:158
+msgid "Name"
+msgstr "نام"
+
+#: includes/class-news-letter-list.php:159
+msgid "Email"
+msgstr "ایمیل"
+
+#: includes/class-news-letter-list.php:160
+msgid "Phone number"
+msgstr "شماره تلفن"
+
+#: templates/admin/newsletter.php:6
+msgid "ٔNewsletter"
+msgstr "خبرنامه"
+
+#: templates/admin/newsletter.php:22
+msgid "Export Data"
+msgstr "خروجی گرفتن اطلاعات"
+
+#: templates/admin/newsletter.php:26
+msgid "Only emails"
+msgstr "فقط ایمیل ها"
+
+#: templates/admin/newsletter.php:27
+msgid "Only phone numbers"
+msgstr "فقط شماره تلفن ها"
+
+#: templates/admin/newsletter.php:28
+msgid "All data"
+msgstr "همه اطلاعات"
+
+#: templates/admin/newsletter.php:33
+msgid "Download CSV"
+msgstr "دانلود فایل csv"
